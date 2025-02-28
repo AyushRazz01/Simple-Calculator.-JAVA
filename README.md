@@ -1,2 +1,2 @@
 # Simple-Calculator.-JAVA
-A simple Calculator program using Adv.java Swing. using jframe, jpanel etcs.
+developed a Simple Calculator in Java using Swing components like JFrame, JPanel, JButton, JTextField, and ActionListener. The GUI allows users to perform basic arithmetic operations (addition, subtraction, multiplication, and division). Buttons and a text field handle user input and display results dynamically. The program ensures a user-friendly interface with responsive event handling.
